@@ -79,6 +79,14 @@ There is currently only one stack, in
 After changing code, rerun the commands in *Compiling* and *Deploying* sections to update your stack.
 
 
+# TODO
+
+[ ] How to specify alternative stack name
+[ ] How to specify parameters
+[ ] How to list outputs
+[ ] How to work with multiple stacks
+    [ ] Update a selected stack
+    [ ] Refer to a different stack's outputs
 
 
 
